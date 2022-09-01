@@ -15,7 +15,7 @@
   <img align="center" alt="CSS-logo" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS-logo" title="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Js-logo" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="fma-logo" height="120" style="border-radius:50px;" src="https://i.ibb.co/gTFjnYC/removal-ai-tmp-6310a0f6679e6.png"> 
+  <img align="right" alt="fma-logo" height="120" style="border-radius:50px;" src="https://i.ibb.co/RPYvKYk/Bb.png"> 
 </div>
   
   ## 
