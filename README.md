@@ -1,24 +1,25 @@
-## Yo o/
-  <p align="center"> 
-
-  <img src="https://profile-counter.glitch.me/Dougsan65/count.svg" />
+## Sup! o/
+- 🔭 I did the half college of Science Computer, and im actually doing the course of Systems Analysis and Development.
+- 🌱 I’m currently learning Java with the bukket API.
+- 💬 U can talk with me, if u want something =D
+- ⚡ Fun fact: someday i hope to work with game dev.<br>
 
 </p>
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/Dougsan65">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dougsan65&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougsan65&layout=compact&langs_count=7&theme=aura"/>
 </div>
+
+# Techs!
   
-<div style="display: inline_block"><br>  
-  <img align="center" alt="HTML-logo" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-logo" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python-logo" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js-logo" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="fma-logo" height="120" style="border-radius:50px;" src="https://i.ibb.co/RPYvKYk/Bb.png"> 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+  </a>
+</p>
   
-  ## 
+  # Talk with me!
   
 <div>  
   <a href="mailto:douglasclaudino543@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
