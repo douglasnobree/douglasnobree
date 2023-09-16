@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=500&color=AF4DF7&width=435&lines=Welcome+%3DD;im+Douglas;Back-End+dev+%3A)" alt="Typing SVG" /></a>
 ## Sup! o/
 - 🔭 I did the half college of Science Computer, and im actually doing the course of Systems Analysis and Development.
 - 🌱 I’m currently learning Java with the bukket API.
