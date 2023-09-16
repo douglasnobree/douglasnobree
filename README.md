@@ -12,8 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougsan65&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-
-# Techs!
+# Techs which  i use!
   
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +20,7 @@
   </a>
 </p>
   
-  # Talk with me!
+### Talk with me!
   
 <div>  
   <a href="mailto:douglasclaudino543@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
