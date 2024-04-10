@@ -6,13 +6,10 @@
 - 🚀 Enthusiastic about programming and always eager to tackle challenges that broaden my skill set.
 - 💬 Feel free to hit me up for a chat anytime! 😄
 
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dougsan65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dougsan65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dougsan65&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dougsan65&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dougsan65&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 # Technologies I Use!
   
