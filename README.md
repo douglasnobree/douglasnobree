@@ -21,6 +21,11 @@
     <img src="https://skillicons.dev/icons?i=ts,html,css,java,python,nestjs,nodejs,prisma,postgres,lua,kotlin,git,docker,aws" />
   </a>
 </p>
+
+##
+<div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=dougsan65&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
   
 ### Get in Touch!
   
