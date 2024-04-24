@@ -8,7 +8,7 @@
 
   ![Status](./profile-3d-contrib/profile-night-view.svg)
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dougsan65&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dougsan65&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douglasnobree&theme=transparent&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douglasnobree&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 # Technologies I Use!
@@ -21,7 +21,7 @@
 
 ##
 <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=dougsan65&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=douglasnobree&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
 ### Get in Touch!
